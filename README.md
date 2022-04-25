@@ -7,7 +7,7 @@ I have included STL for the object for some common sizes, as rendered from OpenS
 All of the code/files are contained within GitHub - GutterDrainGrate
 
 ```shell
-git clone --recurse-submodules https://github.com/jshessen/SpringFactory.git
+git clone --recurse-submodules https://github.com/jshessen/GutterDrainGrate.git
 ```
 
 The overall project is also availale on
